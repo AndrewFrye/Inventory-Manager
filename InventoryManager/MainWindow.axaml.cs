@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace Inventory_Manager;
+namespace InventoryManager;
 
 public partial class MainWindow : Window
 {

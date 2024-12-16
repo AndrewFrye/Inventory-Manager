@@ -1,7 +1,7 @@
 ﻿using Avalonia;
 using System;
 
-namespace Inventory_Manager;
+namespace InventoryManager;
 
 class Program
 {

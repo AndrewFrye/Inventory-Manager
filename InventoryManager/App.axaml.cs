@@ -2,7 +2,7 @@ using Avalonia;
 using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Markup.Xaml;
 
-namespace Inventory_Manager;
+namespace InventoryManager;
 
 public partial class App : Application
 {
